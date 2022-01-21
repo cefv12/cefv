@@ -3,6 +3,7 @@ var obj = JSON.parse($response.body);
 obj = {
   "retcode" : 0,
   "errmsg" : "",
+  "data":{
 }
 // 有需要全部替换的情况，只需让用户在这里如此操作即可
 
