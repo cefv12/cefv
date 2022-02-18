@@ -11,7 +11,7 @@ obj =
     "video": "",
     "mp4Url": ""
     "type": 1,
-    "me": 1,
+    "me": 0,
     "minCoverUrl": "",
     "surplusCount": 4264
   }
