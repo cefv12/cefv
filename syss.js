@@ -1,7 +1,6 @@
 var obj = JSON.parse($response.body); 
 // 可以合并一句带过
 obj = 
-
 {
   "errno": 0,
   "errmsg": "",
@@ -11,9 +10,9 @@ obj =
     "video": "",
     "mp4Url": ""
     "type": 1,
-    "me": 0,
+    "me": 1,
     "minCoverUrl": "",
-    "surplusCount": 4264
+    "surplusCount": 4314
   }
 }
 
