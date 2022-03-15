@@ -1,13 +1,13 @@
 /*
-WPS Office 解锁部分功能
+iqiyi 解锁部分功能
 
 ***************************
 QuantumultX:
-
+^https?:\/\/vinfo\.\vip\.iqiyi\.com\/external\/vip_users\*    url script-response-body  
 [rewrite_local]
 
 [mitm]
-hostname = account.wps.cn
+hostname = vinfo.vip.iqiyi.com
 
 ***************************
 
@@ -51,3 +51,16 @@ var obj = {
 
 
 $done({ body: JSON.stringify(obj) });
+
+
+
+
+
+
+
+
+
+
+
+
+
