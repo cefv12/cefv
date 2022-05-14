@@ -12,7 +12,7 @@
 
 本地重写
 
-^https:\/\/app\.iheyman\.xyz\/*   url script-response-body mubu.js
+^https:\/\/app\.iheyman\.xyz\/*   url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/My.js
 
 
 
