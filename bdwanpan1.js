@@ -17,8 +17,9 @@ obj = {
     "end_time": 2147483648,
     "buy_time": "1417260485",
     "cluster": "offlinedl",
-    "detail_cluster": "offlinedl","status": "0",
-    "function_num": 2,
+    "detail_cluster": "offlinedl",
+    "status": "0",
+    "function_num": 0,
     "buy_description": "离线下载套餐(永久)",
     "product_description": "离线下载套餐(永久)"
     "product_name": "gz_telecom_exp"
@@ -30,7 +31,7 @@ obj = {
     "buy_description": "",
     "buy_time": 0,
     "product_id": "1",
-    "auto_upgrade_to_svip": 0,
+    "auto_upgrade_to_svip": 1,
     "end_time": 3672502399,
     "cluster": "vip",
     "detail_cluster": "svip",
