@@ -18,10 +18,6 @@ obj = {
     "buy_time": "1417260485",
     "cluster": "offlinedl",
     "detail_cluster": "offlinedl",
-    "status": "0",
-    "function_num": 0,
-    "buy_description": "离线下载套餐(永久)",
-    "product_description": "离线下载套餐(永久)"
     "product_name": "gz_telecom_exp"
   }, {
     "product_name": "svip2_nd",
