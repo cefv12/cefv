@@ -56,7 +56,7 @@ var obj = {
         "superscript" : "http://static-s.iqiyi.com/common/20220301/qiyue2.0/38/da/145f64f1ac474825ba0aac65fa4356ee5368696793757855316.png",
         "vipTypeGroup" : "vip_info",
         "longestDeadline" : {
-          "t" : 1698508799000
+          "t" : 16918508799000
         },
         "autoRenew" : "0",
         "yearExpire" : 0,
@@ -69,7 +69,7 @@ var obj = {
         "vipType" : "1",
         "status" : "1",
         "deadline" : {
-          "t" : 1698508799000
+          "t" : 16918508799000
         }
       },
       {
@@ -77,20 +77,20 @@ var obj = {
         "superscript" : null,
         "vipTypeGroup" : "sport_vip",
         "longestDeadline" : {
-          "t" : 1634918399000
+          "t" : 16918508799000
         },
         "autoRenew" : "0",
         "yearExpire" : 1,
-        "paidSign" : 0,
+        "paidSign" : 1,
         "surplus" : "",
-        "type" : "0",
-        "level" : null,
+        "type" : "1",
+        "level" : 6,
         "payType" : "0",
         "vipTypeName" : "体育会员",
         "vipType" : "14",
         "status" : "3",
         "deadline" : {
-          "t" : 1634918399000
+          "t" : 16918508799000
         }
       }
     ],
