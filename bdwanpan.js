@@ -4,7 +4,7 @@ Surge4.0:
 http-response https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/zwf234/rules/master/js/BaiduCloud.js
 
 QX1.0.0:
-https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://raw.githubusercontent.com/cefv12/cefv/bdwanpan.js
+https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/bdwanpan.js
 
 MITM = pan.baidu.com
 */
