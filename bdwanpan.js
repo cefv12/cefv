@@ -6,7 +6,7 @@ http-response https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user requires-b
 QX1.0.0:
 https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/bdwanpan.js
 
-MITM = pan.baidu.com
+hostname = pan.baidu.com
 */
 
 let obj = JSON.parse($response.body);
