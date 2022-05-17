@@ -2,11 +2,11 @@
 百度网盘解锁vip，视频倍速播放
 
 
-https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user\/info* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/bdwanpan2.js
-
+^https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user\/info* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/bdwanpan2.js
+^https:\/\/111\.63\.96\.*\/rest\/2\.0\/membership\/user\/info* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/bdwanpan2.js
 [mitm]
 
-hostname = pan.baidu.com, 111.63.96.53,
+hostname = pan.baidu.com, 111.63.96.*,
 */
 
 let obj = JSON.parse($response.body);
