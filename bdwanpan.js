@@ -2,7 +2,7 @@
 百度网盘解锁vip，视频倍速播放
 
 
-https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/bdwanpan1.js
+https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/bdwanpan.js
 
 [mitm]
 
