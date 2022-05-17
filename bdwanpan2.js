@@ -6,7 +6,7 @@ https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user\/info* url script-respon
 
 [mitm]
 
-hostname = pan.baidu.com
+hostname = pan.baidu.com, 111.63.96.53,
 */
 
 let obj = JSON.parse($response.body);
