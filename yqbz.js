@@ -14,22 +14,22 @@ obj = {
       "current_time" : 1653119025,
       "vip_type" : "1",
       "nickname" : "188******91",
-      "register_frm" : 3,
+      "register_frm" : 1,
       "last_vip_expire_time" : 1753119025,
-      "login_frm" : 3,
+      "login_frm" : 1,
       "is_continuous" : "1",
       "bind_info" : {
         "open_id" : "",
         "token" : "",
         "has_server_id" : true
       },
-      "latest_order_type" : "",
+      "latest_order_type" : "1753119025",
       "sign" : "",
       "gender" : 0,
       "profession" : 1,
       "email" : "",
       "vip_ex_date" : 1953119025,
-      "mobile" : "",
+      "mobile" : "1753119025",
       "continuous_code" : "1",
       "latest_order_id" : "",
       "open_id" : "1527179947654909952",
@@ -40,8 +40,8 @@ obj = {
       "is_tourist" : true
     },
     "permission_info" : 1753119025,
-    "permission_code" : "",
-    "permission_list" : "",
+    "permission_code" : "1753119025",
+    "permission_list" : "1753119025",
     "permission_code_status" : 1
   },
   "resp_common" : {
