@@ -2,7 +2,7 @@
 百度网盘解锁vip，视频倍速播放
 
 
-https:\/\/api-drive\.mypikpak\.com\/vip\/v1\/order\/activation-code url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/ppwanpan.js
+https:\/\/api-drive\.mypikpak\.com\/vip\/v1\/order\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/ppwanpan.js
 
 [mitm]
 
