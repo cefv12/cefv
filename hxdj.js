@@ -1,4 +1,4 @@
-///*
+/*
 #微信小程序搜: 
 
 使用方法:
@@ -20,7 +20,8 @@ https:\/\/api\.mpyouzi\.com\/* url script-response-body https://raw.githubuserco
 [mitm]
 
 hostname = api.mpyouzi.com
-****/
+
+*/
 
 let obj = JSON.parse($response.body);
 obj = 
