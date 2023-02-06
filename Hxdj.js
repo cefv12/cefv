@@ -16,6 +16,7 @@ const path1 = "/api/ct/paySetup/query";
 const path2 = "/api/ct/ma/user/info";
 let obj = JSON.parse($response.body);
 {
-obj.data.coinBNum="9999999";
+obj.data.query["coinBNum"]="9999999";
+obj.data.info["coinBNum"]="9999999";
 };
 $done({body: JSON.stringify(obj)});
