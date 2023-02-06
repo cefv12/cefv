@@ -1,6 +1,6 @@
 /*
 
-微信小程序搜: 
+微信小程序:红袖短剧
 
 使用方法:
 
@@ -16,7 +16,8 @@
 不保证资源兼容所有手机，发布的资源小编亲测正常使用，
 如果您不能使用，请理性对待！
 
-https:\/\/api\.mpyouzi\.com\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/Hxdj.js
+https:\/\/api\.mpyouzi\.com\/(api\/ct\/paySetup\/query\/|api\/ct\/ma\/user\/info)   url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/Hxdj.js
+
 [mitm]
 hostname = api.mpyouzi.com
 
@@ -25,4 +26,5 @@ let obj = JSON.parse($response.body);
 {
 obj.data.coinBNum="9999999";
 };
+
 $done({body: JSON.stringify(obj)});
