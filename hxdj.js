@@ -15,7 +15,7 @@
 不保证资源兼容所有手机，发布的资源小编亲测正常使用，
 如果您不能使用，请理性对待！
 
-https:\/\/api\.mpyouzi\.com\/api\/ct\/video\/pay* script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/hxdj.js
+https:\/\/api\.mpyouzi\.com\/api\/ct\/video\/* script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/hxdj.js
 
 [mitm]
 
