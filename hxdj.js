@@ -28,7 +28,6 @@ obj =
 {
  "code":0,
  "msg":"操作成功",
- "data":true
- "coinBNum":99999999
+ "data":true,
 };
 $done({body: JSON.stringify(obj)});
