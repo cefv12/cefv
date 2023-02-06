@@ -15,7 +15,6 @@ hostname = api.mpyouzi.com
 const path1 = "/api/ct/paySetup/query";
 const path2 = "/api/ct/ma/user/info";
 let obj = JSON.parse($response.body);
-if ($request.url.indexOf(path1) != -1)
 {
 obj.data.coinBNum="9999999";
 };
