@@ -1,13 +1,5 @@
 /*
-
 微信小程序:红袖短剧
-
-使用方法:
-
-1.请先登录后再开启规则进入，如爽豆没更改请右上角重新进入
-
-2.先点一次签到，领取爽豆。
-再开启规则进入观看
 
 功能:解锁购买，完美观看
 
@@ -20,11 +12,9 @@ https:\/\/api\.mpyouzi\.com\/(api\/ct\/paySetup\/query\/|api\/ct\/ma\/user\/info
 
 [mitm]
 hostname = api.mpyouzi.com
-
 */
 let obj = JSON.parse($response.body);
 {
 obj.data.coinBNum="9999999";
 };
-
 $done({body: JSON.stringify(obj)});
