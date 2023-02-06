@@ -25,8 +25,8 @@ hostname = api.mpyouzi.com
 
 let obj = JSON.parse($response.body);
 {
-obj.date.code="0",
-obj.date.msg="操作成功",
-obj.date.date="true",
+obj.date.code="0";
+obj.date.msg="操作成功";
+obj.date.date="true";
 };
 $done({body: JSON.stringify(obj)});
