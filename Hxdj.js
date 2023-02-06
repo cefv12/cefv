@@ -21,14 +21,8 @@ https:\/\/api\.mpyouzi\.com\/* url script-response-body https://raw.githubuserco
 hostname = api.mpyouzi.com
 
 */
-const path1 = "/api/ct/ma/user/info";
-const path2 = "/api/ct/video/payVideo";
 let obj = JSON.parse($response.body);
-if ($request.url.indexOf(path1) != -1)
 {
-obj.data."coinBNum" = "9999999";
-obj.code = "0";
-obj.msg = "操作成功";
-obj.date = "true";
+obj.data.coinBNum="9999999";
 };
 $done({body: JSON.stringify(obj)});
