@@ -9,11 +9,13 @@
 如果您不能使用，请理性对待！
 
 https:\/\/api\.mpyouzi\.com\/(api\/ct\/paySetup\/query\/|api\/ct\/ma\/user\/info)   url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/Hxdj.js
-
 [mitm]
 hostname = api.mpyouzi.com
 */
+const path1 = "/api/ct/paySetup/query";
+const path2 = "/api/ct/ma/user/info";
 let obj = JSON.parse($response.body);
+if ($request.url.indexOf(path1) != -1)
 {
 obj.data.coinBNum="9999999";
 };
