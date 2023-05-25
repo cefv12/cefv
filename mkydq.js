@@ -1,5 +1,5 @@
 /*
-百度网盘解锁vip，视频倍速播放
+漫客阅读
 
 https:\/\/conf.klzdp.com\/v4\/ios\/com.mkydqreader.io\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
 
