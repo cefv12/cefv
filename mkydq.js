@@ -4,7 +4,7 @@
 https:\/\/conf.klzdp.com\/v4\/ios\/com.mkydqreader.io\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkyd.js
 
 [mitm]
-
+ 
 hostname = conf.klzdp.com
 */
 
