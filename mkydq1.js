@@ -1,4 +1,4 @@
-/*
+/**
 漫客阅读
 https:\/\/conf.klzdp.com\/v4\/source\/site.html    url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/mkydq1.js
 [mitm]
