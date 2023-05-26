@@ -4,13 +4,11 @@
 https:\/\/my.klzdp.com\/*   url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/mkydqb.js
 
 [mitm]
- 
 hostname = my.klzdp.com
 */
 
 let obj = JSON.parse($response.body);
 obj = 
-
 {
   "data" : {
     "ver" : 1,
