@@ -1,20 +1,15 @@
 /*
-
 漫客阅读
 
-https:\/\/*.klzdp.com\/app\/308\/e3\/f3\/*_reload.html  url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/mkydq3.js
+https:\/\/c-catalog.klzdp.com\/app\/*  url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq3.js
 
 [mitm]
-
  
-
 hostname = *.klzdp.com
-
 */
 
 let obj = JSON.parse($response.body);
-
-obj = 
+obj = obj = 
 {
   "data" : {
     "ver" : 1,
