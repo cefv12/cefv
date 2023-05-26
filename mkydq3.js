@@ -1,11 +1,10 @@
 /*
-漫客阅读
+漫客阅读vip
 
 https:\/\/c-catalog.klzdp.com\/app\/*  url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq3.js
 
 [mitm]
- 
-hostname = *.klzdp.com
+hostname = c-catalog.klzdp.com
 */
 
 let obj = JSON.parse($response.body);
