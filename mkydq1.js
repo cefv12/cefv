@@ -1,11 +1,11 @@
 *
 漫客阅读
 
-https:\/\/conf.klzdp.com\/v4\/source\/site.html url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq1.js
+https:\/\/*.klzdp.com\/v4\/source\/site.html url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq1.js
 
 [mitm]
  
-hostname = conf.klzdp.com
+hostname = *.klzdp.com
 */
 
 let obj = JSON.parse($response.body);
