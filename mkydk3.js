@@ -1,7 +1,7 @@
 /*
 漫客阅读
 
-https:\/\/c-catalog.klzdp.com\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq3.js
+https:\/\/c-catalog.klzdp.com\/* url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/mkydk3.js
 
 [mitm]
  
