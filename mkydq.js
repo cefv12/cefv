@@ -1,11 +1,14 @@
 /*
 漫客阅读
-
+https:\/\/conf.hwjzjx.com\/v4\/ios\/com.mkydqreader.io\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
 https:\/\/conf.klzdp.com\/v4\/ios\/com.mkydqreader.io\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
+https:\/\/112.48.187.102\/v4\/ios\/com.mkydqreader.io\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
+
+
 
 [mitm]
  
-hostname = conf.klzdp.com
+hostname = conf.klzdp.com,112.48.187.102,conf.hwjzjx.com,
 */
 
 let obj = JSON.parse($response.body);
