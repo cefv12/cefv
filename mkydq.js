@@ -1,5 +1,6 @@
 /*
-漫客阅读
+#漫客阅读解锁vip
+
 https:\/\/conf.hwjzjx.com\/v4\/ios\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
 https:\/\/conf.klzdp.com\/v4\/ios\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
 https:\/\/112.48.187.*\/v4\/ios\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
