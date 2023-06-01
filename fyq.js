@@ -1,10 +1,11 @@
 /*
 飞韵听书
-https:\/\/sdk.qzbonline.com\/ver9\/36mh\/sdk\/v9_36mh2_jh_conf2.html   url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/fyq.js
+
+https:\/\/fyts-cloud2.gz.bcebos.com\/cloud\/app\/com.m.lis\/appTrans\/* url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/fy.js
 
 [mitm]
-
-hostname = sdk.qzbonline.com
+ 
+hostname = fyts-cloud2.gz.bcebos.com
 */
 
 let obj = JSON.parse($response.body);
