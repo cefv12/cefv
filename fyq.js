@@ -1,7 +1,7 @@
 /*
 飞韵听书
 
-https:\/\/fyts-cloud2.gz.bcebos.com\/cloud\/app\/com.m.lis\/appTrans\/* url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/fy.js
+https:\/\/fyts-cloud2.gz.bcebos.com\/cloud\/app\/com.m.lis\/appTrans\/* url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/fyq.js
 
 [mitm]
  
