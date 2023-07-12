@@ -4,12 +4,13 @@
 https:\/\/conf.hwjzjx.com\/v4\/ios\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
 https:\/\/conf.klzdp.com\/v4\/ios\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
 https:\/\/112.48.187.*\/v4\/ios\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
-
+https:\/\/conf.ibbxtx.com\/v4\/ios\/* url script-response-body https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
+https:\/\/conf.*.com\/v4\/ios\/*  url script-response-body  https://raw.githubusercontent.com/cefv12/cefv/111/mkydq.js
 
 
 [mitm]
  
-hostname = conf.klzdp.com,112.48.187.*,conf.hwjzjx.com,
+hostname = conf.klzdp.com,112.48.187.*,conf.hwjzjx.com,conf.*.com,
 */
 
 let obj = JSON.parse($response.body);
